@@ -12,6 +12,10 @@ Cette extension Chrome est une simple calculatrice qui vous permet d'effectuer d
 ## Comment utiliser
 
 1. Installez l'extension en la téléchargeant à partir du Chrome Web Store ou en chargeant manuellement les fichiers de l'extension.
+
+![Capture d’écran 2024-02-21 à 11 41 16](https://github.com/adellkl/Extension-chrome/assets/114930826/7370b233-31eb-4b63-94a5-04360a6e8ed8)
+
+
 2. Cliquez sur l'icône de l'extension dans la barre d'outils de Chrome pour ouvrir la calculatrice.
 3. Utilisez les touches du clavier ou cliquez sur les boutons de la calculatrice pour saisir votre expression mathématique.
 4. Appuyez sur la touche "Enter" ou sur le bouton "=" pour obtenir le résultat.
