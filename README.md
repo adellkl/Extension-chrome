@@ -1,4 +1,5 @@
 # Extension Chrome Calculatrice
+<img width="1468" alt="Capture d’écran 2024-06-10 à 15 39 22" src="https://github.com/adellkl/Extension-chrome/assets/114930826/4e35bd37-cd0c-4884-a661-66c26e73ccb6">
 
 Cette extension Chrome est une simple calculatrice qui vous permet d'effectuer des opérations mathématiques de base directement dans votre navigateur Chrome.
 
